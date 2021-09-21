@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "http://nina-antoniuk.github.io/event-booster/",
+  "homepage": "http://sta11k.github.io/Golocation/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /event-booster/"
+    "build": "parcel build src/*.html --public-url /Golocation/"
   },
   "repository": {
     "type": "git",
