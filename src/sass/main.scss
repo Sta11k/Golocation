@@ -1,1 +1,22 @@
-@import './base/common';
+// utils
+@import "./utils/variables";
+
+// base
+@import "./base/common";
+@import "./base/container";
+@import "./base/scroll";
+
+// components
+@import "./components/body-bg";
+@import "./components/logo";
+@import "./components/auth";
+@import "./components/spinner";
+@import "./components/pagination";
+@import "./components/button-up";
+@import "./components/modal";
+
+// layout
+@import "./layout/header";
+@import "./layout/gallery";
+@import "./layout/section-pagination";
+@import "./layout/footer";
